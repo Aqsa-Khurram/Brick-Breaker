@@ -1,0 +1,3 @@
+as     level3,630
+aqsa     level2,300
+ali     level 1,60
